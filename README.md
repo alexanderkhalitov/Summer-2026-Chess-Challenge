@@ -5,6 +5,8 @@ The Summer Chess Challenge is a learning-first build challenge for friends who w
 
 Each participant will build a chess platform in a different programming language, document their work throughout the summer, and optionally extend their project into networking and engine play.
 
+[![Watch the video](https://img.youtube.com/vi/Rn8EeuiSDS4/hqdefault.jpg)](https://www.youtube.com/watch?v=Rn8EeuiSDS4)
+
 ## Core Goals
 
 1. Have a fun summer challenge among friends.
