@@ -46,21 +46,12 @@ Fill this table in as registrations are received.
 | Language | Slot 1 | Slot 2 |
 | --- | --- | --- |
 | Rust | [Thomas O'Donnell](https://github.com/iBoot32) | Open |
-| Go | Open | Open |
 | C | [Thomas Munson](https://github.com/TRMunson7) | Open |
 | C++ | [Elijah Jorgensen](https://github.com/galaxybomb23) | Open |
-| Zig | Open | Open |
-| OCaml | Open | Open |
-| Haskell | Open | Open |
 | Python | [Alex Tauriainen](https://github.com/Aarynda)  | Open |
-| Swift | Open | Open |
-| Java | Open | Open |
-| C# | Open | Open |
-| TypeScript | Open | Open |
 | Matlab | [Arjun Siderys](https://github.com/asiderys) | Open |
-| Kotlin | Open | Open |
 | gdscript | [Asher Sprigler](https://github.com/Legitimatemuffin) | Open |
-| Other | Open | Open |
+| Assembly | [Alexander Khalitov](https://github.com/alexanderkhalitov) | Open |
 
 ## Phase 1: Registration
 
